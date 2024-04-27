@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Gmail](https://img.shields.io/badge/Gmail-joaopedro10122002@gmail.com?style=for-the-badge&logo=gmail&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-joaopedro10122002?style=for-the-badge&logo=gmail&logoColor=white)
 
 
 
