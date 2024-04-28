@@ -4,6 +4,7 @@ contact me:
 __________________________________________________________________________________________________________________________________________________________________________________________________________
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=J0A0-PEDR0&layout=compact&theme=onedark&height=50&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
+
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=J0A0-PEDR0&layout=compact&height=400&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 _________________________________________________________________________________________________________________________________________________________________________________________________________________
 
